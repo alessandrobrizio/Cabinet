@@ -1,0 +1,30 @@
+{
+  "name": "com.alessandrobrizio.cabinet.scoremanagement",
+  "version": "0.1.0",
+  "displayName": "Cabinet Score Management",
+  "description": "Pump up the competition with a scoreboard!",
+  "unity": "2019.4",
+  "keywords": [
+    "cabinet",
+    "score",
+    "management"
+  ],
+  "dependencies": {
+    "com.alessandrobrizio.cabinet.core": "0.1.0"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Basic database interaction",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/alessandrobrizio/Cabinet.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Alessandro Brizio",
+    "email": "alessandro.brizio.ab@gmail.com"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "AlessandroBrizio.Cabinet.Logging.Runtime",
+    "rootNamespace": "AlessandroBrizio.Cabinet.Logging",
+    "references": [
+        "GUID:df7575a4d02389245afbeda6d8ef7477"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

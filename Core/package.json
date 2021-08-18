@@ -1,0 +1,19 @@
+{
+  "name": "com.alessandrobrizio.cabinet.core",
+  "version": "0.1.0",
+  "displayName": "Cabinet Core",
+  "description": "Handle your local cabinets network!",
+  "unity": "2019.4",
+  "keywords": [
+    "cabinet",
+    "core"
+  ],
+  "repository": {
+    "url": "https://github.com/alessandrobrizio/Cabinet.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Alessandro Brizio",
+    "email": "alessandro.brizio.ab@gmail.com"
+  }
+}
